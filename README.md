@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jawid-fakhari
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning javasript
+- 👀 I’m a frontend web developer
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on developing a website
-- 📫 How to reach me: jawid_fakhari@live.it
+- 📫 How to reach me: jawidfakhari@gmail.com
 
 <!---
 jawid-fakhari/jawid-fakhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
