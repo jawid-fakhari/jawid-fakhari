@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on developing a website
 - 📫 How to reach me: jawidfakhari@gmail.com
-- 💩 My portfolio: https://fakhari-portfolio-fclo3lbdk-jawidfakharis-projects.vercel.app/
+- 💩 My portfolio: https://fakhari-portfolio.vercel.app/
 - 📄 My resume: https://europa.eu/europass/eportfolio/screen/share/eb9477ac-7c4f-4076-8651-9740502aafcc?lang=en
 
 <!---
